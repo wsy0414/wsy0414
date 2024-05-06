@@ -57,7 +57,7 @@
       <h2>2022/05 ~ 2023/09</h2>
       <h4>BOXTradEx Java Backend Developer</h4>
       <p>1. 使用SpringBoot實作Restful API提供給前端串接</p>
-      <p>2. 串接第三方API(Wire)實作刷卡支付功能</p>
+      <p>2. 串接第三方API(Wyre)實作刷卡支付功能</p>
       <p>3. 實作ChanLink預言機的智能合約完成樂透抽獎功能</p>
       <p>4. 使用RabbitMQ實作非同步處理</p>
       <p>5. 實作Metamask及WalletConnect串接</p>
