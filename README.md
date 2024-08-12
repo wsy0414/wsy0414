@@ -3,7 +3,7 @@
 ###
 
 <p>I'm a backend developer from Taiwan 🇹🇼</p>
-<p>目前正在學習Golang和相關後端開發的framework，也在尋找後端工程師的就業機會</p>
+<p>I am currently working as an golang engineer at Fly Asian Inc.</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shuo-yi-wang-4133b8228" target="_blank">
@@ -56,7 +56,7 @@
     <div class="content">
       <h2>2022/05 ~ 2023/09</h2>
       <h4>BOXTradEx Java Backend Developer</h4>
-      <p>1. 使用SpringBoot實作Restful API提供給前端串接</p>
+      <p>1. Implement Restful API by SprintBoot</p>
       <p>2. 串接第三方API(Wyre)實作刷卡支付功能</p>
       <p>3. 實作ChanLink預言機的智能合約完成樂透抽獎功能</p>
       <p>4. 使用RabbitMQ實作非同步處理</p>
